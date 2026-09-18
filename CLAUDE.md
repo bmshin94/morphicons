@@ -1,3 +1,24 @@
+# morphicons (guillermolg00/morphicons)
+
+## 프로젝트 개요
+재생 버튼이 일시정지 버튼으로, 돋보기가 닫기 버튼으로 액체처럼 유려하게 변신하는 "모핑 아이콘 애니메이션 킷"
+정적이고 딱딱했던 웹 화면 아이콘들에 살아 숨 쉬는 유기적인 화면 전환 애니메이션을 선물하여 시각적 즐거움 선사
+모던한 웹사이트나 모바일 앱 디자인에 애플 수준의 극적인 완성도와 부드러운 터치감을 더해주는 명품 그래픽 에셋
+
+## 핵심 특징 & 추천 분야
+- 모핑아이콘애니메이션
+- 유려한화면전환
+- 애플수준디자인완성도
+- 살아숨쉬는UI
+- 명품그래픽에셋
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # morphicons
 
 Universal morphing library for stroke-based icons (Lucide, Tabler, Heroicons, Iconoir; off-grid packs via `fitIcon`): any icon morphs into any other with spring physics and rotations that emerge from the math. **`README.md` is the source of truth** — it documents the API, the architecture and the full math pipeline with formulas.
